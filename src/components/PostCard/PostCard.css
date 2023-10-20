@@ -1,0 +1,18 @@
+.postCard {
+  width: 300px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.postCard img {
+  height: 80%;
+}
+.postCard h2 {
+  height: 20%;
+  color: black;
+}
